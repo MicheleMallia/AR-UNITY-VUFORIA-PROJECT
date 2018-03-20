@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/michelemallia/testQuadriAR/Android2/testQuadriAR/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/michelemallia/testQuadriAR/Android2/testQuadriAR/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "0,0",
+                        "startOffsets": "53,149",
+                        "endLines": "3,7",
+                        "endColumns": "8,8",
+                        "endOffsets": "147,374"
+                    },
+                    "to": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,203",
+                        "endLines": "4,8",
+                        "endColumns": "8,8",
+                        "endOffsets": "198,425"
+                    }
+                },
+                {
+                    "source": "/Users/michelemallia/testQuadriAR/Android2/testQuadriAR/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

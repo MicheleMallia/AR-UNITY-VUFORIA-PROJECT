@@ -1,0 +1,4 @@
+#Fri Jan 05 11:39:37 CET 2018
+base.0=/Users/michelemallia/testQuadriAR/Android2/testQuadriAR/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
